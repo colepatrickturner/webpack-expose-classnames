@@ -1,0 +1,29 @@
+{
+"name": "webpack-expose-classnames",
+"version": "0.0.1",
+"description": "Detect and expose JavaScript classnames to a specific context.",
+"keywords": [
+"webpack",
+"loader",
+"webpack-loader",
+"react"
+],
+"main": "index.js",
+"dependencies": {},
+"devDependencies": {},
+"peerDependencies": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/colepatrickturner/webpack-expose-classnames"
+},
+"homepage": "https://github.com/colepatrickturner/webpack-expose-classnames",
+"authors": [
+"Cole Turner <turner.cole@gmail.com> (https://github.com/colepatrickturner)"
+],
+"license": "MIT",
+"private": false,
+"readmeFilename": "README.md",
+"bugs": {
+"url": "https://github.com/colepatrickturner/webpack-expose-classname/issues"
+}
+}
